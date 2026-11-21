@@ -1,0 +1,19 @@
+# Originaldaten nicht in das Repository aufnehmen
+data/raw/
+
+# Aufbereitete Daten und gespeicherte Modelle
+data/processed/
+models/
+
+# Lokale Python-Umgebung
+.venv/
+
+# Automatisch erzeugte Python-Dateien
+__pycache__/
+*.py[cod]
+
+# Automatische Jupyter-Sicherungskopien
+.ipynb_checkpoints/
+
+# Lokale Zugangsdaten und Einstellungen
+.env
